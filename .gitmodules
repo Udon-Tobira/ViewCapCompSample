@@ -1,0 +1,3 @@
+[submodule "Plugins/ViewCaptureComponentPlugin"]
+	path = Plugins/ViewCaptureComponentPlugin
+	url = https://github.com/Udon-Tobira/ViewCaptureComponentPlugin.git
