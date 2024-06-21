@@ -1,3 +1,3 @@
 # ViewCapCompSample
-SceneCapture2Dコンポーネントを使用したViewportキャプチャ
+ViewCaptureComponent (Plugin) を使用したViewportキャプチャのサンプルプロジェクト。
 UE5.4.2で作成。
