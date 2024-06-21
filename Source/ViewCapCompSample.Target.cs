@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ViewportCaptureBy2DEditorTarget : TargetRules
+public class ViewCapCompSampleTarget : TargetRules
 {
-	public ViewportCaptureBy2DEditorTarget( TargetInfo Target) : base(Target)
+	public ViewCapCompSampleTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Editor;
+		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_4;
-		ExtraModuleNames.Add("ViewportCaptureBy2D");
+		ExtraModuleNames.Add("ViewCapCompSample");
 	}
 }

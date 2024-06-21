@@ -1,3 +1,3 @@
-# ViewportCaptureBy2D
+# ViewCapCompSample
 SceneCapture2Dコンポーネントを使用したViewportキャプチャ
 UE5.4.2で作成。

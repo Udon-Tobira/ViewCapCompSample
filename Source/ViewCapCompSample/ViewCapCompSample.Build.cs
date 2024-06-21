@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class ViewportCaptureBy2D : ModuleRules
+public class ViewCapCompSample : ModuleRules
 {
-	public ViewportCaptureBy2D(ReadOnlyTargetRules Target) : base(Target)
+	public ViewCapCompSample(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
